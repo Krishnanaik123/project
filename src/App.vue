@@ -51,6 +51,7 @@ export default {
       } else {
         this.products = this.allProducts.filter((p) =>
           p.title.toLowerCase().includes(this.query.toLowerCase())
+          // p.title.toLowerCase().includes(this.query.toLowerCase)(
         );
       }
     },
