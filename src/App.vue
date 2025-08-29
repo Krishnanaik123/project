@@ -188,4 +188,14 @@ input:focus {
   font-size: 1.2rem;
   color: #e74c3c;
 }
+.org{
+  display:flex;
+  font-size: 22px;
+  color:green;
+  width:100%;
+  height:100;
+  align-content: center;
+  justify-content:center;
+
+}
 </style>
