@@ -1,6 +1,7 @@
 <template>
   <div class="app">
     <h1>🛒 Vue Product Search</h1>
+     <p>It Good product to buy for more accuracy</p>
 
    
     <div class="search-box">
