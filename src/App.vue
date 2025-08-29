@@ -54,7 +54,7 @@ export default {
       }
     },
     buyNow(productName) {
-      alert(`🛒 You clicked Buy Now for tis "${productName}"`);
+      alert(`🛒 You clicked Buy Now for "${productName}"`);
     },
   },
 };
